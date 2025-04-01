@@ -12,7 +12,7 @@ The map visualizes:
 - Time-stamped geo-points and intensities
 
 ## 🔍 Explore the Visualization
-🌐 **[View the Live Map](https://your-username.github.io/your-repo-name)**
+🌐 **[View the Live Map](https://github.com/abbasyazdinejad/methane-visualization/blob/main/methane_trend_over_time_2020_2024.html)**
 
 > Replace `your-username` and `your-repo-name` with your GitHub details.
 
