@@ -1,29 +1,24 @@
 
 # Live Methane Emission Trends (2020–2024)
 
-This project presents a **live, interactive map** of methane concentration trends across Canada from 2020 to December 2024. It integrates data from:
-- **Sentinel-5P TROPOMI** satellite
-- **ERA5** meteorological data
-- **OpenStreetMap (OSM)** industrial activity
-
-The map visualizes:
-- Monthly methane variations
-- Spatial correlation with industrial regions
-- Time-stamped geo-points and intensities
+This project presents a **live interactive map** showing methane concentration trends across Canada from January 2020 to December 2024. The map integrates data from:
+- 🛰️ **Sentinel-5P TROPOMI** satellite observations
+- 🌦️ **ERA5** meteorological reanalysis
+- 🏭 **OpenStreetMap (OSM)** industrial infrastructure
 
 ## 🔍 Explore the Visualization
-🌐 **[View the Live Map](https://github.com/abbasyazdinejad/methane-visualization/blob/main/methane_trend_over_time_2020_2024.html)**
+🌐 **[Click here to view the interactive map](https://abbasyazdinejad.github.io/methane-visualization/)**
 
-> Replace `your-username` and `your-repo-name` with your GitHub details.
+> The map uses time-stamped markers and monthly aggregation to show methane intensity evolution in space and time.
 
-## 📁 Files
-- `index.html`: Standalone interactive methane map
-- `Live Visualization of Methane Emission Trends.ipynb`: Jupyter Notebook used to generate the visualization
+## 📁 Contents
+- `index.html`: Standalone HTML map
+- `Live Visualization of Methane Emission Trends.ipynb`: Python notebook that generates the map
 
-## 📅 Timeframe
-- Coverage: **January 2020 – December 2024**
-- Data granularity: **Monthly**
+## 📅 Data Coverage
+- **Timeframe**: January 2020 to December 2024
+- **Resolution**: Monthly aggregation
 
-## 📜 License
-MIT License
+## 📄 License
+TBD
 
