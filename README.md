@@ -21,4 +21,3 @@ This project presents a **live interactive map** showing methane concentration t
 
 ## 📄 License
 TBD
-
